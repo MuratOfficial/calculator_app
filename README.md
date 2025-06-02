@@ -54,4 +54,4 @@ Contributions are welcome! If you'd like to improve this calculator app, please 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Contact
-If you have any questions or feedback, you can reach out to [https://github.com/MuratOfficial](MuratOfficial).
+If you have any questions or feedback, you can reach out to [MuratOfficial](https://github.com/MuratOfficial).
