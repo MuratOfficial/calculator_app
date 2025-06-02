@@ -39,17 +39,19 @@ To start the calculator, simply run the `main.py` file:
 python main.py
 ```
 
-###How to Use
-Click the number buttons to input digits.
-Click the operator buttons (+, -, *, /) to perform calculations.
-Use the "C" button to clear the display.
-Use the "DEL" button to delete the last character.
-Click the "=" button to get the result.
-Contributing
+### How to Use
+
+* **Click the number buttons to input digits.
+* **Click the operator buttons (+, -, *, /) to perform calculations.
+* **Use the "C" button to clear the display.
+* **Use the "DEL" button to delete the last character.
+* **Click the "=" button to get the result.
+
+### Contributing
 Contributions are welcome! If you'd like to improve this calculator app, please feel free to fork the repository and submit a pull request.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-If you have any questions or feedback, you can reach out to MuratOfficial.
+### Contact
+If you have any questions or feedback, you can reach out to [https://github.com/MuratOfficial](MuratOfficial).
