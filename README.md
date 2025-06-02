@@ -1,44 +1,50 @@
-Calculator App
-This is a simple calculator application built using Python and Tkinter.
+# Calculator App
 
-Features
-Basic arithmetic operations: addition, subtraction, multiplication, and division.
+This is a simple calculator application built using **Python** and **Tkinter**.
 
-Clear button to reset the input.
+## Features
 
-Delete button to remove the last entered digit or operator.
+* **Basic arithmetic operations**: addition, subtraction, multiplication, and division.
+* **Clear button** to reset the input.
+* **Delete button** to remove the last entered digit or operator.
+* **Responsive and intuitive graphical user interface**.
 
-Responsive and intuitive graphical user interface.
+---
 
-Getting Started
-Prerequisites
-To run this application, you need to have Python installed on your system. You can download Python from the official website: https://www.python.org/downloads/
+## Getting Started
 
-Installation
-Clone this repository to your local machine:
+### Prerequisites
 
-git clone https://github.com/MuratOfficial/calculator_app.git
+To run this application, you need to have **Python** installed on your system. You can download Python from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-Navigate to the project directory:
+### Installation
 
-cd calculator_app
+1.  **Clone this repository** to your local machine:
 
-Running the Application
-To start the calculator, simply run the main.py file:
+    ```bash
+    git clone [https://github.com/MuratOfficial/calculator_app.git](https://github.com/MuratOfficial/calculator_app.git)
+    ```
 
+2.  **Navigate to the project directory**:
+
+    ```bash
+    cd calculator_app
+    ```
+
+### Running the Application
+
+To start the calculator, simply run the `main.py` file:
+
+```bash
 python main.py
+```
 
-How to Use
+###How to Use
 Click the number buttons to input digits.
-
 Click the operator buttons (+, -, *, /) to perform calculations.
-
 Use the "C" button to clear the display.
-
 Use the "DEL" button to delete the last character.
-
 Click the "=" button to get the result.
-
 Contributing
 Contributions are welcome! If you'd like to improve this calculator app, please feel free to fork the repository and submit a pull request.
 
