@@ -22,7 +22,7 @@ To run this application, you need to have **Python** installed on your system. Y
 1.  **Clone this repository** to your local machine:
 
     ```bash
-    git clone [https://github.com/MuratOfficial/calculator_app.git](https://github.com/MuratOfficial/calculator_app.git)
+    git clone https://github.com/MuratOfficial/calculator_app.git
     ```
 
 2.  **Navigate to the project directory**:
